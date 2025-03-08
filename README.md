@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khwaja waize</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **Data analytics**
+- 🌱 I’m currently learning **Living!**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/khwaja-waize-b23767282](https://www.linkedin.com/in/khwaja-waize-b23767282)
 
