@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Khwaja waize</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Khwaja Waize</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
