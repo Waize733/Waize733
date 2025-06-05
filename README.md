@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/khwaja-waize-b23767282](https://www.linkedin.com/in/khwaja-waize-b23767282)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/khwaja-waize-b23767282/](https://www.linkedin.com/in/khwaja-waize-b23767282/)
 
 - 💬 Ask me about **Anything About My Full Stack Journey**
 
 - 📫 How to reach me **khwajawaize733@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **🔐 Encryption here is like gossip — once it’s out, only the intended person should be able to understand it 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
